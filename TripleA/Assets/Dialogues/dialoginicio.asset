@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5827ed5d2d6ad9c40868a745639cbe38, type: 3}
+  m_Name: dialoginicio
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: pessoa A
+    portrait: {fileID: 0}
+    myText: "Ei, voc\xEA ouviu falar nos .... ?"
+  - myName: pessoa B
+    portrait: {fileID: 0}
+    myText: "N\xE3o, que isso?"
+  - myName: pessoa A
+    portrait: {fileID: 0}
+    myText: "S\xE3o ladr\xF4es que mandam para as suas v\xEDtimas a hora e o dia em
+      que ser\xE3o roubadas para se prepararem antes."
+  - myName: Pessoa A
+    portrait: {fileID: 0}
+    myText: "Eles roubam pela emo\xE7\xE3o. Geralmente, os roubos deles s\xE3o transmitidos
+      online."
+  - myName: Pessoa B
+    portrait: {fileID: 0}
+    myText: Eles parecem legais!!!
+  - myName: Pessoa A
+    portrait: {fileID: 0}
+    myText: Ah...!
+  - myName: Pessoa B
+    portrait: {fileID: 0}
+    myText: O que houve?
+  - myName: Pesoa A
+    portrait: {fileID: 0}
+    myText: "Acabou de aparecer um v\xEDdeo deles!"
+  - myName: Pessoa B
+    portrait: {fileID: 0}
+    myText: Me envia !!!!
